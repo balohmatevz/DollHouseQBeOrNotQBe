@@ -1,0 +1,43 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\DayNightCycle.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Player.cs" Line="35" Column="56" />
+      <File FileName="Assets\Scripts\SelectedPlayerCamera.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PathfindingBall.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Room.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PathfindingBallStairs.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Furniture\Furniture.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Furniture\Bed.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PathfindingBallFurniture.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Clothing.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Furniture\Bookshelf.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Furniture\Chair.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GameController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\UIHelpText.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Camera.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\UIStateBar.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Furniture\Bathtub.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Furniture\Dresser.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Furniture\Fridge.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Furniture\Monitor.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Furniture\Sink.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Furniture\WC.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Furniture\Pantry.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Furniture\WashingMachine.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\MouthEmotion.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\MobEye.cs" Line="1" Column="1" />
+      <File FileName="Assets\Materials\MainMenu\AuthorWebsite.cs" Line="1" Column="1" />
+      <File FileName="Assets\Materials\MainMenu\newgame.cs" Line="1" Column="1" />
+      <File FileName="Assets\Materials\MainMenu\LDPage.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\UIStateBarLabel.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\HoveredOverHint.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\UISelectedPlayerName.cs" Line="18" Column="74" />
+      <File FileName="Assets\Scripts\DayNightCycle.cs" Line="15" Column="25" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
